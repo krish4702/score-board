@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    background-color: blueviolet;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.row{
+    margin-top: 10px;
+    background-color: black;
+    color: red;
+    text-align: center;
+    padding: 10px;
+}
+
+.row2{
+    margin-top: 4px;
+    background-color: black;
+    color: red;
+    text-align: center;
+    padding: 10px;
+   
+}
+
+.div1{
+    margin-top: 15px;
+}
+
+.div2{
+    margin-top: 15px;
+}
+
+.btn{
+    background-color: blueviolet;
+    color: white;
+    border: 1px solid white;
+}
